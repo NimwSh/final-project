@@ -1,0 +1,16 @@
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\bin\Debug\SHOEsStoree.exe.config
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\bin\Debug\SHOEsStoree.exe
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\bin\Debug\SHOEsStoree.pdb
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.csproj.AssemblyReference.cache
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.Properties.Resources.resources
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.csproj.GenerateResource.cache
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.csproj.CoreCompileInputs.cache
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.exe
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.pdb
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.splash.resources
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.login.resources
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.dashboard.resources
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.Shoes.resources
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.users.resources
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.billing.resources
+C:\Users\nimas\source\repos\SHOEsStoree\SHOEsStoree\obj\Debug\SHOEsStoree.adminlogin.resources
